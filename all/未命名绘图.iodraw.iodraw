@@ -7,7 +7,7 @@
         <mxCell id="EhjT-5jfUT9unyNRTHos-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;环境&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;strokeColor=#66FF66;" vertex="1" parent="1">
           <mxGeometry x="210" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EhjT-5jfUT9unyNRTHos-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;智能体&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="EhjT-5jfUT9unyNRTHos-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;智能体&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
