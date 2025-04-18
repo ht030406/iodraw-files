@@ -41,16 +41,16 @@
           <mxGeometry x="420" y="570" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EhjT-5jfUT9unyNRTHos-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="660" width="30" height="30" as="geometry" />
+          <mxGeometry x="255" y="680" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EhjT-5jfUT9unyNRTHos-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="660" width="30" height="30" as="geometry" />
+          <mxGeometry x="300" y="680" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EhjT-5jfUT9unyNRTHos-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="340" y="660" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EhjT-5jfUT9unyNRTHos-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="390" y="550" width="30" height="30" as="geometry" />
+          <mxGeometry x="375" y="660" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
