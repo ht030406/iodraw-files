@@ -73,6 +73,9 @@
         <mxCell id="EhjT-5jfUT9unyNRTHos-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="299.5" y="680" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EhjT-5jfUT9unyNRTHos-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.51;entryY=-0.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EhjT-5jfUT9unyNRTHos-15" target="EhjT-5jfUT9unyNRTHos-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
