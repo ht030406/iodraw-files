@@ -143,13 +143,13 @@
           <mxGeometry x="400.5" y="95" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EhjT-5jfUT9unyNRTHos-77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$a_{t}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="361" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="365.5" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EhjT-5jfUT9unyNRTHos-78" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$r_{t+1}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="331" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EhjT-5jfUT9unyNRTHos-79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$s_{t+1}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="349.5" y="155" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EhjT-5jfUT9unyNRTHos-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="350.5" y="70" width="30" height="30" as="geometry" />
