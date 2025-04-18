@@ -28,7 +28,7 @@
         <mxCell id="EhjT-5jfUT9unyNRTHos-10" value="奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="198" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EhjT-5jfUT9unyNRTHos-12" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;" edge="1" parent="1">
+        <mxCell id="EhjT-5jfUT9unyNRTHos-12" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="180" as="sourcePoint" />
             <mxPoint x="250" y="130" as="targetPoint" />
