@@ -92,7 +92,10 @@
           <mxGeometry x="290.5" y="500" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EhjT-5jfUT9unyNRTHos-38" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;V&lt;sup&gt;*&lt;/sup&gt;(s)&lt;/i&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="405.5" y="490" width="70" height="50" as="geometry" />
+          <mxGeometry x="430.5" y="500" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EhjT-5jfUT9unyNRTHos-40" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&#xa;mso-fareast-font-family:宋体;mso-ligatures:none;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&#xa; &#xa; &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa; &#xa; &#xa; &#xa;&#xa; &#xa;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="30" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
