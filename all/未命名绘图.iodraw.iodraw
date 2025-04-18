@@ -25,7 +25,7 @@
         <mxCell id="EhjT-5jfUT9unyNRTHos-9" value="状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="298" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EhjT-5jfUT9unyNRTHos-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="EhjT-5jfUT9unyNRTHos-10" value="奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="198" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
