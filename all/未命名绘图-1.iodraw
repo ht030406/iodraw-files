@@ -160,10 +160,8 @@
         <mxCell id="L4qndr7YdPya01BECKmb-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$y_m$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="555" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L4qndr7YdPya01BECKmb-65" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="110" y="930" width="50" height="40" as="geometry">
-            <mxRectangle x="110" y="930" width="160" height="160" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="L4qndr7YdPya01BECKmb-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
