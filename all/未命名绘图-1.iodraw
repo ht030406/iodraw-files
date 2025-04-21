@@ -1145,8 +1145,8 @@
         <mxCell id="L4qndr7YdPya01BECKmb-570" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;$$Q_(s,a)$$&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1900" y="1190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L4qndr7YdPya01BECKmb-571" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1925" y="1298" width="50" height="30" as="geometry" />
+        <mxCell id="L4qndr7YdPya01BECKmb-572" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;$$Q_(s,a)$$&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
