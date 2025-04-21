@@ -1131,10 +1131,10 @@
           <mxGeometry x="1827.5" y="770" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4qndr7YdPya01BECKmb-566" value="$$s_t$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1575" y="1200" width="60" height="60" as="geometry" />
+          <mxGeometry x="1575" y="1200" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="L4qndr7YdPya01BECKmb-567" value="$$s_{t+1}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1300" width="80" height="80" as="geometry" />
+          <mxGeometry x="1560" y="1300" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
