@@ -1166,8 +1166,8 @@
             <mxPoint x="2010" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4qndr7YdPya01BECKmb-580" value="$$L_(theta)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="1218" width="100" height="30" as="geometry" />
+        <mxCell id="L4qndr7YdPya01BECKmb-580" value="$$L(theta)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1915" y="1218" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
