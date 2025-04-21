@@ -28,8 +28,8 @@
         <mxCell id="L4qndr7YdPya01BECKmb-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="L4qndr7YdPya01BECKmb-10" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="498" width="60" height="70" as="geometry" />
+        <mxCell id="L4qndr7YdPya01BECKmb-10" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
