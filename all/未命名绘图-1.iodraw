@@ -715,10 +715,10 @@
         <mxCell id="L4qndr7YdPya01BECKmb-445" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF8000;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1182" y="252" width="98" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="L4qndr7YdPya01BECKmb-446" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="L4qndr7YdPya01BECKmb-446" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="180" as="sourcePoint" />
-            <mxPoint x="1360" y="130" as="targetPoint" />
+            <mxPoint x="1420" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
