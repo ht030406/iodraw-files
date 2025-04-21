@@ -1146,13 +1146,13 @@
           <mxGeometry x="1900" y="1190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4qndr7YdPya01BECKmb-572" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;$$\max_{a^{\prime}}Q(s_{t+1},a^{\prime})$$&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1925" y="1350" width="150" height="40" as="geometry" />
+          <mxGeometry x="1905" y="1350" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4qndr7YdPya01BECKmb-573" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;R(奖励)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="1290" width="100" height="40" as="geometry" />
+          <mxGeometry x="1930" y="1290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4qndr7YdPya01BECKmb-574" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="1280" width="180" height="120" as="geometry" />
+          <mxGeometry x="1890" y="1280" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
