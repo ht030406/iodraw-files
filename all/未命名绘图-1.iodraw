@@ -994,8 +994,8 @@
             <mxPoint x="1550" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4qndr7YdPya01BECKmb-526" value="$$y_{t-1}$$&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-white-space ng-star-inserted&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-decoration-color: #202124 !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-item eusoft-eudic-chrome-extension-translate-inner-content ng-star-inserted&quot;&gt;&lt;span&gt;$$y_{t-1}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="668" width="140" height="30" as="geometry" />
+        <mxCell id="L4qndr7YdPya01BECKmb-526" value="$$y_{t-1}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="668" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
