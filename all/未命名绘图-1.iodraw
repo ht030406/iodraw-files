@@ -160,7 +160,7 @@
         <mxCell id="L4qndr7YdPya01BECKmb-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$y_m$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="555" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L4qndr7YdPya01BECKmb-58" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillStyle=hatch;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="L4qndr7YdPya01BECKmb-58" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillStyle=dashed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="200" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
