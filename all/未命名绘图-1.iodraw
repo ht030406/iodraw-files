@@ -1154,6 +1154,12 @@
         <mxCell id="L4qndr7YdPya01BECKmb-574" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="1890" y="1280" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="L4qndr7YdPya01BECKmb-577" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="L4qndr7YdPya01BECKmb-574" target="L4qndr7YdPya01BECKmb-570">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1960" y="1260" as="sourcePoint" />
+            <mxPoint x="2010" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
