@@ -1143,7 +1143,7 @@
           <mxGeometry x="1710" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L4qndr7YdPya01BECKmb-570" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;$$Q_(s,a)$$&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="1190" width="100" height="40" as="geometry" />
+          <mxGeometry x="1930" y="1160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4qndr7YdPya01BECKmb-572" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;$$\max_{a^{\prime}}Q(s_{t+1},a^{\prime})$$&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1905" y="1350" width="150" height="40" as="geometry" />
