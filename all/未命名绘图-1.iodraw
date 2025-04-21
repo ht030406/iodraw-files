@@ -945,7 +945,7 @@
             <mxRectangle width="50" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4qndr7YdPya01BECKmb-524" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="L4qndr7YdPya01BECKmb-501">
+        <mxCell id="L4qndr7YdPya01BECKmb-524" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.186;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;strokeWidth=0;" edge="1" parent="1" source="L4qndr7YdPya01BECKmb-501" target="L4qndr7YdPya01BECKmb-516">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="860" as="targetPoint" />
             <Array as="points">
