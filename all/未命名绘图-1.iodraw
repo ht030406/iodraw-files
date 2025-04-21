@@ -703,8 +703,11 @@
             <mxRectangle width="50" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L4qndr7YdPya01BECKmb-442" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3333;fillColor=none;strokeWidth=3;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="L4qndr7YdPya01BECKmb-442" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3333;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="180" y="440" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="L4qndr7YdPya01BECKmb-443" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3333;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="98" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
