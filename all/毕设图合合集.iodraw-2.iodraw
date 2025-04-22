@@ -1197,7 +1197,7 @@
         <mxCell id="bz8Meo5JU6NtCHiQWv5D-2" value="Critic" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;strokeColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="2280" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bz8Meo5JU6NtCHiQWv5D-3" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bz8Meo5JU6NtCHiQWv5D-3" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;strokeColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="2280" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bz8Meo5JU6NtCHiQWv5D-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="bz8Meo5JU6NtCHiQWv5D-4" target="bz8Meo5JU6NtCHiQWv5D-3">
