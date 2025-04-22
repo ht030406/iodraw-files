@@ -1346,6 +1346,18 @@
         <mxCell id="bz8Meo5JU6NtCHiQWv5D-51" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;. . .&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2531" y="1112" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bz8Meo5JU6NtCHiQWv5D-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EBEBEB;strokeColor=#404040;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="2545" y="1050" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bz8Meo5JU6NtCHiQWv5D-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EBEBEB;strokeColor=#404040;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="2545" y="1090" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bz8Meo5JU6NtCHiQWv5D-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EBEBEB;strokeColor=#404040;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="2545" y="1160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bz8Meo5JU6NtCHiQWv5D-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EBEBEB;strokeColor=#404040;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="2545" y="1202" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
