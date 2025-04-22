@@ -1313,7 +1313,7 @@
         <mxCell id="bz8Meo5JU6NtCHiQWv5D-38" value="$$z_0$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2476" y="1040" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bz8Meo5JU6NtCHiQWv5D-39" value="$$z_1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="bz8Meo5JU6NtCHiQWv5D-39" value="$$z_0$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2476" y="1075" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bz8Meo5JU6NtCHiQWv5D-40" value="$$z_{31}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;" vertex="1" parent="1">
