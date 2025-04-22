@@ -1319,8 +1319,8 @@
         <mxCell id="bz8Meo5JU6NtCHiQWv5D-40" value="$$z_{31}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2486" y="1190" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bz8Meo5JU6NtCHiQWv5D-41" value="$$z_0$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2522" y="1060" width="70" height="30" as="geometry" />
+        <mxCell id="bz8Meo5JU6NtCHiQWv5D-41" value="$$d_t$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2492" y="1230" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
