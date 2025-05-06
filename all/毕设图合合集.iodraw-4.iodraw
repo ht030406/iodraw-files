@@ -100,10 +100,10 @@
             <mxPoint x="435" y="294.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gu5hO4-nSx-_QzxeYddq-121" value="$$x_1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Gu5hO4-nSx-_QzxeYddq-121" value="$$y_1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="378" y="138" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gu5hO4-nSx-_QzxeYddq-122" value="$$x_2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Gu5hO4-nSx-_QzxeYddq-122" value="$$y_2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="378" y="190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gu5hO4-nSx-_QzxeYddq-123" value="$$x_n$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
