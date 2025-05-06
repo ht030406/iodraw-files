@@ -10,6 +10,12 @@
         <mxCell id="Gu5hO4-nSx-_QzxeYddq-98" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Gu5hO4-nSx-_QzxeYddq-99" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu5hO4-nSx-_QzxeYddq-100" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="228" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
