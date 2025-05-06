@@ -2301,11 +2301,6 @@
         <mxCell id="cm-mudDk8_tAl1ON39rB-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cm-mudDk8_tAl1ON39rB-119" target="cm-mudDk8_tAl1ON39rB-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cm-mudDk8_tAl1ON39rB-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cm-mudDk8_tAl1ON39rB-119">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410.0000000000002" y="1890.2325581395348" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cm-mudDk8_tAl1ON39rB-119" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;环境&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#87E887;strokeColor=#87E887;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
