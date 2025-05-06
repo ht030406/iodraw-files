@@ -2301,8 +2301,8 @@
         <mxCell id="cm-mudDk8_tAl1ON39rB-119" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;环境&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#87E887;strokeColor=#87E887;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cm-mudDk8_tAl1ON39rB-120" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;环境&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#87E887;strokeColor=#87E887;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1840" width="120" height="60" as="geometry" />
+        <mxCell id="cm-mudDk8_tAl1ON39rB-120" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;智能体&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#87E887;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
