@@ -7,6 +7,9 @@
         <mxCell id="Gu5hO4-nSx-_QzxeYddq-434" value="&lt;span style=&quot;background-color: rgb(135, 232, 135);&quot;&gt;环境&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#87E887;strokeColor=#87E887;" vertex="1" parent="1">
           <mxGeometry x="150" y="100" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Gu5hO4-nSx-_QzxeYddq-435" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#87E887;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
