@@ -1349,8 +1349,8 @@
         <mxCell id="bz8Meo5JU6NtCHiQWv5D-40" value="$$z_{31}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2466" y="1144" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bz8Meo5JU6NtCHiQWv5D-41" value="$$rho_t$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="2471" y="1179" width="90" height="30" as="geometry" />
+        <mxCell id="bz8Meo5JU6NtCHiQWv5D-41" value="$$\rho_t$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="2466" y="1179" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bz8Meo5JU6NtCHiQWv5D-86" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#636363;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=openThin;endFill=0;" parent="1" source="bz8Meo5JU6NtCHiQWv5D-42" target="bz8Meo5JU6NtCHiQWv5D-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
