@@ -287,9 +287,6 @@
         <mxCell id="SHLq56CtAxryY5KRImhH-60" value="$$o_t$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#CFA8F5;labelBackgroundColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1691.25" y="-797.01" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="SHLq56CtAxryY5KRImhH-61" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;图13.3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1551.25" y="-614" width="140" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
