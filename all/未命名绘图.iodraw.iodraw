@@ -263,8 +263,8 @@
             <mxPoint x="580" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rxWxqZ2seQv0MzF14zIZ-95" value="人类数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="70" y="140" width="70" height="30" as="geometry" />
+        <mxCell id="rxWxqZ2seQv0MzF14zIZ-95" value="人类数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="600" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
