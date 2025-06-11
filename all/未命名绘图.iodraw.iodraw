@@ -594,10 +594,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rxWxqZ2seQv0MzF14zIZ-210" value="" style="endArrow=classic;html=1;rounded=1;dashed=1;dashPattern=1 2;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1">
+        <mxCell id="rxWxqZ2seQv0MzF14zIZ-210" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;curved=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="410" as="sourcePoint" />
-            <mxPoint x="210" y="360" as="targetPoint" />
+            <mxPoint x="152.5" y="400" as="sourcePoint" />
+            <mxPoint x="572.5" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
