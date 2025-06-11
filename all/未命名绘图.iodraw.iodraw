@@ -565,8 +565,8 @@
         <mxCell id="rxWxqZ2seQv0MzF14zIZ-197" value="主利用者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#5E9CD9;labelBackgroundColor=none;rotation=90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="560" y="112" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rxWxqZ2seQv0MzF14zIZ-198" value="主利用者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#5E9CD9;labelBackgroundColor=none;rotation=90;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="122" width="70" height="30" as="geometry" />
+        <mxCell id="rxWxqZ2seQv0MzF14zIZ-198" value="联盟利用者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#5E9CD9;labelBackgroundColor=none;rotation=90;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="555" y="240" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
