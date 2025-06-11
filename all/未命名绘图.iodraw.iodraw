@@ -603,8 +603,8 @@
         <mxCell id="rxWxqZ2seQv0MzF14zIZ-211" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;时 间&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#5E9CD9;labelBackgroundColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="370" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rxWxqZ2seQv0MzF14zIZ-212" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;时间&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#5E9CD9;labelBackgroundColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="349" y="-80" width="50" height="30" as="geometry" />
+        <mxCell id="rxWxqZ2seQv0MzF14zIZ-212" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;历史玩家&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#5E9CD9;labelBackgroundColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="334" y="-80" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
