@@ -247,9 +247,9 @@
         <mxCell id="rxWxqZ2seQv0MzF14zIZ-87" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-90;strokeColor=none;fillColor=#5E9CD9;" vertex="1" parent="1">
           <mxGeometry x="429" y="50" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="rxWxqZ2seQv0MzF14zIZ-93" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rxWxqZ2seQv0MzF14zIZ-69" target="rxWxqZ2seQv0MzF14zIZ-56">
+        <mxCell id="rxWxqZ2seQv0MzF14zIZ-93" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="rxWxqZ2seQv0MzF14zIZ-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="60" as="sourcePoint" />
+            <mxPoint x="580" y="55" as="sourcePoint" />
             <mxPoint x="660" y="10" as="targetPoint" />
             <Array as="points">
               <mxPoint x="630" y="55" />
