@@ -35,7 +35,7 @@
             <mxPoint x="167.5" y="144.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rxWxqZ2seQv0MzF14zIZ-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;人类数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#66B2FF;labelBackgroundColor=none;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="rxWxqZ2seQv0MzF14zIZ-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;人类数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=#5E9CD9;labelBackgroundColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="60" y="130" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rxWxqZ2seQv0MzF14zIZ-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeColor=none;fillColor=#663696;" vertex="1" parent="1">
