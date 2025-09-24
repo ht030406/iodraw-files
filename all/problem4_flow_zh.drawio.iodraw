@@ -29,10 +29,10 @@
           <mxGeometry x="-200" y="570" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n52" value="反事实分析：最小改动→类别翻转 可靠性图：校准好坏" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#1a73e8;fillColor=#e8f0fe;" parent="1" vertex="1">
-          <mxGeometry x="290" y="580" width="310" height="70" as="geometry" />
+          <mxGeometry x="140" y="565" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n6" value="诊断报告与复核 • 指标：准确率/召回/F1/ROC-PR • 图谱：混淆矩阵/对齐图/SHAP/反事实 • 风险：高不确定/疑似OOD人工复核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#1a73e8;fillColor=#e8f0fe;" parent="1" vertex="1">
-          <mxGeometry x="40" y="750" width="560" height="100" as="geometry" />
+          <mxGeometry x="480" y="555" width="560" height="100" as="geometry" />
         </mxCell>
         <mxCell id="n7" value="输出：可解释的迁移诊断结果与目标域伪标签" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#1a73e8;fillColor=#e8f0fe;" parent="1" vertex="1">
           <mxGeometry x="70" y="950" width="560" height="60" as="geometry" />
