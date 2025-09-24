@@ -61,11 +61,6 @@
         <mxCell id="e9" value="" style="endArrow=block;strokeWidth=2;strokeColor=#5f6368;" parent="1" source="n52" target="n6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e10" value="" style="endArrow=block;strokeWidth=2;strokeColor=#5f6368;" parent="1" source="n6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="382.8000000000002" y="950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
