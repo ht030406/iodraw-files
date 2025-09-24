@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram id="diagram-1" name="流程图（中文）">
-    <mxGraphModel dx="1508" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="300" width="1040" height="120" as="geometry" />
         </mxCell>
         <mxCell id="102" value="&lt;b&gt;对齐与校准&lt;/b&gt;&lt;br/&gt;计算统计量（目标／源）。&lt;br/&gt;分布对齐（CORAL／均值–方差／无）。&lt;br/&gt;在源验证集上做温度缩放（降低 ECE）。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#1a1a1a;fillColor=#f7f7f7;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="270" y="460" width="1040" height="120" as="geometry" />
+          <mxGeometry x="280" y="460" width="1040" height="120" as="geometry" />
         </mxCell>
         <mxCell id="103" value="&lt;b&gt;OOD 与阈值&lt;/b&gt;&lt;br/&gt;OOD 筛查（Mahalanobis），过滤离群样本。&lt;br/&gt;按类别拟合概率阈值，使精确率达到 0.95。" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#1a1a1a;fillColor=#f7f7f7;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="620" width="1040" height="120" as="geometry" />
