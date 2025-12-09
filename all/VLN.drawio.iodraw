@@ -4,49 +4,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="box1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Natural Language&lt;br&gt;Instruction&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fillColor=#E6F2FF;strokeColor=#0066CC;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="box1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Natural Language&lt;br style=&quot;font-size: 15px;&quot;&gt;Instruction&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fillColor=#E6F2FF;strokeColor=#0066CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-70" y="120" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="box2" value="Visual Observation&lt;br&gt;(RGB-D Camera)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fillColor=#E6F2FF;strokeColor=#0066CC;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="box2" value="Visual Observation&lt;br style=&quot;font-size: 15px;&quot;&gt;(RGB-D Camera)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fillColor=#E6F2FF;strokeColor=#0066CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-70" y="260" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="arrow1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#333333;strokeWidth=2;" parent="1" source="box1" target="box3" edge="1">
+        <mxCell id="arrow1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#333333;strokeWidth=2;fontSize=15;" parent="1" source="box1" target="box3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arrow2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#333333;strokeWidth=2;" parent="1" source="box2" target="box3" edge="1">
+        <mxCell id="arrow2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#333333;strokeWidth=2;fontSize=15;" parent="1" source="box2" target="box3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qW2rLiMVfCm7k_WxEYzs-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#333333;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="box3" target="box4">
+        <mxCell id="qW2rLiMVfCm7k_WxEYzs-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#333333;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="box3" target="box4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="box3" value="Multimodal Fusion&lt;br&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fillColor=#F0F0F0;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="box3" value="Multimodal Fusion&lt;br style=&quot;font-size: 15px;&quot;&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fillColor=#F0F0F0;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="185" y="200" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qW2rLiMVfCm7k_WxEYzs-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#333333;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="box4" target="box5">
+        <mxCell id="qW2rLiMVfCm7k_WxEYzs-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#333333;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="box4" target="box5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="box4" value="Long-Horizon Planning&lt;br&gt;&amp; Memory Management" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fillColor=#F0F0F0;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="box4" value="Long-Horizon Planning&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;amp; Memory Management" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fillColor=#F0F0F0;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="490" y="200" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qW2rLiMVfCm7k_WxEYzs-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#333333;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="box5" target="box6">
+        <mxCell id="qW2rLiMVfCm7k_WxEYzs-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#333333;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="box5" target="box6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="box5" value="Policy Network" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fillColor=#F0F0F0;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="box5" value="Policy Network" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fillColor=#F0F0F0;strokeColor=#666666;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="795" y="200" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="box6" value="Action Selection&lt;br&gt;(Navigation Command)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fillColor=#E6F7E6;strokeColor=#00AA00;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="box6" value="Action Selection&lt;br style=&quot;font-size: 15px;&quot;&gt;(Navigation Command)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fillColor=#E6F7E6;strokeColor=#00AA00;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1055" y="200" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pipeline_label" value="Agent Pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="pipeline_label" value="Agent Pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="570" y="290" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="challenge1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Core Challenge #1:&lt;/b&gt;&lt;br&gt;Instruction-Vision Alignment&lt;br&gt;(Grounding)&lt;br&gt;&lt;br&gt;How to align discrete linguistic&lt;br&gt;symbols with continuous visual&lt;br&gt;signals in complex scenes?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=10;fillColor=#FFE6E6;strokeColor=#CC0000;strokeWidth=2;padding=10;" parent="1" vertex="1">
-          <mxGeometry x="145" y="30" width="300" height="130" as="geometry" />
+        <mxCell id="challenge1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Core Challenge #1:&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;Instruction-Vision Alignment&lt;br style=&quot;font-size: 15px;&quot;&gt;(Grounding)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;How to align discrete linguistic&lt;br style=&quot;font-size: 15px;&quot;&gt;symbols with continuous visual&lt;br style=&quot;font-size: 15px;&quot;&gt;signals in complex scenes?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=15;fillColor=#FFE6E6;strokeColor=#CC0000;strokeWidth=2;padding=10;" parent="1" vertex="1">
+          <mxGeometry x="145" y="20" width="300" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="solution1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Solutions:&lt;/b&gt;&lt;br&gt;✓ Transformer Multi-Head Attention&lt;br&gt;✓ Cross-Modal Pre-training (BERT)&lt;br&gt;✓ Contrastive Learning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=10;fillColor=#E6F7E6;strokeColor=#00AA00;strokeWidth=2;padding=8;" parent="1" vertex="1">
+        <mxCell id="solution1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Solutions:&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;✓ Transformer Multi-Head Attention&lt;br style=&quot;font-size: 15px;&quot;&gt;✓ Cross-Modal Pre-training (BERT)&lt;br style=&quot;font-size: 15px;&quot;&gt;✓ Contrastive Learning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=15;fillColor=#E6F7E6;strokeColor=#00AA00;strokeWidth=2;padding=8;" parent="1" vertex="1">
           <mxGeometry x="145" y="-70" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="challenge_arrow1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF6666;strokeWidth=2;dashed=1;" parent="1" source="box3" target="challenge1" edge="1">
+        <mxCell id="challenge_arrow1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF6666;strokeWidth=2;dashed=1;fontSize=15;" parent="1" source="box3" target="challenge1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="295" y="120" />
@@ -54,22 +54,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="challenge2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Core Challenge #2:&lt;/b&gt;&lt;br&gt;Long-Horizon Planning &amp;amp;&lt;br&gt;Memory Management&lt;br&gt;&lt;br&gt;How to maintain instruction memory&lt;br&gt;and spatial consistency over&lt;br&gt;100+ steps?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=10;fillColor=#FFE6E6;strokeColor=#CC0000;strokeWidth=2;padding=10;" parent="1" vertex="1">
+        <mxCell id="challenge2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Core Challenge #2:&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;Long-Horizon Planning &amp;amp;&lt;br style=&quot;font-size: 15px;&quot;&gt;Memory Management&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;How to maintain instruction memory&lt;br style=&quot;font-size: 15px;&quot;&gt;and spatial consistency over&lt;br style=&quot;font-size: 15px;&quot;&gt;100+ steps?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=15;fillColor=#FFE6E6;strokeColor=#CC0000;strokeWidth=2;padding=10;" parent="1" vertex="1">
           <mxGeometry x="450" y="30" width="300" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="solution2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Solutions:&lt;/b&gt;&lt;br&gt;✓ Hierarchical RL (HRL)&lt;br&gt;✓ External Memory Networks&lt;br&gt;✓ Topological Graph Reasoning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=10;fillColor=#E6F7E6;strokeColor=#00AA00;strokeWidth=2;padding=8;" parent="1" vertex="1">
+        <mxCell id="solution2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Solutions:&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;✓ Hierarchical RL (HRL)&lt;br style=&quot;font-size: 15px;&quot;&gt;✓ External Memory Networks&lt;br style=&quot;font-size: 15px;&quot;&gt;✓ Topological Graph Reasoning&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=15;fillColor=#E6F7E6;strokeColor=#00AA00;strokeWidth=2;padding=8;" parent="1" vertex="1">
           <mxGeometry x="450" y="-70" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="challenge_arrow2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF6666;strokeWidth=2;dashed=1;" parent="1" source="box4" target="challenge2" edge="1">
+        <mxCell id="challenge_arrow2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF6666;strokeWidth=2;dashed=1;fontSize=15;" parent="1" source="box4" target="challenge2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="challenge3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Core Challenge #3:&lt;/b&gt;&lt;br&gt;Generalization to Unseen&lt;br&gt;Environments (Domain Gap)&lt;br&gt;&lt;br&gt;How to ensure learned policies&lt;br&gt;generalize to environments&lt;br&gt;unseen during training?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=10;fillColor=#FFE6E6;strokeColor=#CC0000;strokeWidth=2;padding=10;" parent="1" vertex="1">
+        <mxCell id="challenge3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Core Challenge #3:&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;Generalization to Unseen&lt;br style=&quot;font-size: 15px;&quot;&gt;Environments (Domain Gap)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;How to ensure learned policies&lt;br style=&quot;font-size: 15px;&quot;&gt;generalize to environments&lt;br style=&quot;font-size: 15px;&quot;&gt;unseen during training?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=15;fillColor=#FFE6E6;strokeColor=#CC0000;strokeWidth=2;padding=10;" parent="1" vertex="1">
           <mxGeometry x="755" y="30" width="300" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="solution3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Solutions:&lt;/b&gt;&lt;br&gt;✓ Domain Randomization (DR)&lt;br&gt;✓ Domain Adaptation (DA)&lt;br&gt;✓ Large-scale Synthetic Data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=10;fillColor=#E6F7E6;strokeColor=#00AA00;strokeWidth=2;padding=8;" parent="1" vertex="1">
+        <mxCell id="solution3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Solutions:&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;✓ Domain Randomization (DR)&lt;br style=&quot;font-size: 15px;&quot;&gt;✓ Domain Adaptation (DA)&lt;br style=&quot;font-size: 15px;&quot;&gt;✓ Large-scale Synthetic Data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=15;fillColor=#E6F7E6;strokeColor=#00AA00;strokeWidth=2;padding=8;" parent="1" vertex="1">
           <mxGeometry x="755" y="-70" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="challenge_arrow3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF6666;strokeWidth=2;dashed=1;" parent="1" source="box5" target="challenge3" edge="1">
+        <mxCell id="challenge_arrow3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeColor=#FF6666;strokeWidth=2;dashed=1;fontSize=15;" parent="1" source="box5" target="challenge3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
