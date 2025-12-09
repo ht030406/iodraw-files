@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="Vision-Language Navigation (VLN) Core Challenges &amp; Solutions Pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="150" y="10" width="900" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="input_label" value="INPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontStyle=1;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="260" y="55" width="40" height="20" as="geometry" />
         </mxCell>
