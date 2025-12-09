@@ -44,7 +44,7 @@
           <mxGeometry x="205" y="620" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="output_label" value="OUTPUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontStyle=1;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="225" y="710" width="50" height="20" as="geometry" />
+          <mxGeometry x="270" y="710" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pipeline_label" value="Agent Pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="100" y="360" width="80" height="40" as="geometry" />
