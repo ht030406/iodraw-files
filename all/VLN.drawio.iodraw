@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="box1" value="Natural Language&lt;br&gt;Instruction" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fillColor=#E6F2FF;strokeColor=#0066CC;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="130" width="180" height="80" as="geometry" />
+          <mxGeometry x="-70" y="120" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="box2" value="Visual Observation&lt;br&gt;(RGB-D Camera)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fillColor=#E6F2FF;strokeColor=#0066CC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-70" y="260" width="180" height="80" as="geometry" />
