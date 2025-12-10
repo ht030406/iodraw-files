@@ -147,7 +147,6 @@
         <mxCell id="d4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;entryX=0.5;entryY=1;" parent="1" source="plus_dec" target="dec_masked_mha" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="680" />
               <mxPoint x="660" y="680" />
             </Array>
           </mxGeometry>
@@ -188,8 +187,8 @@
             <Array as="points">
               <mxPoint x="260" y="350" />
               <mxPoint x="480" y="350" />
-              <mxPoint x="480" y="600" />
-              <mxPoint x="610" y="600" />
+              <mxPoint x="480" y="540" />
+              <mxPoint x="610" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
