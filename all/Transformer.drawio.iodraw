@@ -46,6 +46,9 @@
         <mxCell id="dec_masked_mha" value="Masked&#xa;Multi-Head&#xa;Attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" parent="1" vertex="1">
           <mxGeometry x="560" y="600" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ob3HYNVj1kNMxxD_sJBU-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="dec_addnorm1" target="dec_mha">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dec_addnorm1" value="Add &amp; Norm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
           <mxGeometry x="560" y="550" width="200" height="30" as="geometry" />
         </mxCell>
@@ -191,9 +194,6 @@
               <mxPoint x="610" y="530" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dec_internal_conn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;entryX=0.75;entryY=1;exitX=0.5;exitY=0;entryDx=0;entryDy=0;" parent="1" source="dec_addnorm1" target="dec_mha" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="res_dec2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=classic;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" parent="1" source="dec_addnorm1" target="dec_addnorm2" edge="1">
           <mxGeometry relative="1" as="geometry">
