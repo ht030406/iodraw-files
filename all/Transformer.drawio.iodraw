@@ -116,9 +116,7 @@
             <Array as="points">
               <mxPoint x="260" y="720" />
               <mxPoint x="140" y="720" />
-              <mxPoint x="140" y="560" />
-              <mxPoint x="260" y="560" />
-              <mxPoint x="260" y="545" />
+              <mxPoint x="140" y="545" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -128,13 +126,14 @@
         <mxCell id="c6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;" parent="1" source="enc_addnorm1" target="enc_ffn" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="res_enc2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=classic;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" parent="1" source="enc_addnorm1" target="enc_addnorm2" edge="1">
+        <mxCell id="res_enc2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=classic;exitX=0.5;exitY=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="enc_addnorm1" target="enc_addnorm2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="510" />
               <mxPoint x="140" y="510" />
               <mxPoint x="140" y="400" />
               <mxPoint x="260" y="400" />
+              <mxPoint x="260" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
