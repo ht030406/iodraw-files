@@ -38,28 +38,28 @@
           <mxGeometry x="80" y="775" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="decoder_block" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1E1E1;strokeColor=#666666;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="520" y="220" width="280" height="540" as="geometry" />
+          <mxGeometry x="520" y="200" width="280" height="540" as="geometry" />
         </mxCell>
         <mxCell id="nx_label_dec" value="Nx" style="text;html=1;fontSize=24;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="460" width="40" height="30" as="geometry" />
+          <mxGeometry x="810" y="440" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dec_masked_mha" value="Masked&#xa;Multi-Head&#xa;Attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" parent="1" vertex="1">
-          <mxGeometry x="560" y="620" width="200" height="80" as="geometry" />
+          <mxGeometry x="560" y="600" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dec_addnorm1" value="Add &amp; Norm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
-          <mxGeometry x="560" y="570" width="200" height="30" as="geometry" />
+          <mxGeometry x="560" y="550" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dec_mha" value="Multi-Head&#xa;Attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" parent="1" vertex="1">
-          <mxGeometry x="560" y="460" width="200" height="60" as="geometry" />
+          <mxGeometry x="560" y="440" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dec_addnorm2" value="Add &amp; Norm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
-          <mxGeometry x="560" y="410" width="200" height="30" as="geometry" />
+          <mxGeometry x="560" y="390" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dec_ffn" value="Feed&#xa;Forward" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="560" y="300" width="200" height="60" as="geometry" />
+          <mxGeometry x="560" y="280" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dec_addnorm3" value="Add &amp; Norm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" parent="1" vertex="1">
-          <mxGeometry x="560" y="250" width="200" height="30" as="geometry" />
+          <mxGeometry x="560" y="230" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="outputs_text" value="Outputs&#xa;(shifted right)" style="text;html=1;align=center;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="595" y="940" width="130" height="40" as="geometry" />
@@ -68,22 +68,22 @@
           <mxGeometry x="560" y="850" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pos_enc_dec" value="~" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="690" y="710" width="40" height="40" as="geometry" />
+          <mxGeometry x="690" y="690" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="plus_dec" value="+" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="610" y="710" width="40" height="40" as="geometry" />
+          <mxGeometry x="610" y="690" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pos_enc_text_dec" value="Positional&#xa;Encoding" style="text;html=1;align=center;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="740" y="715" width="80" height="30" as="geometry" />
+          <mxGeometry x="740" y="695" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="linear" value="Linear" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;" parent="1" vertex="1">
-          <mxGeometry x="560" y="160" width="200" height="40" as="geometry" />
+          <mxGeometry x="560" y="140" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="softmax" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" parent="1" vertex="1">
-          <mxGeometry x="560" y="90" width="200" height="40" as="geometry" />
+          <mxGeometry x="560" y="70" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="prob_text" value="Output&#xa;Probabilities" style="text;html=1;align=center;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="595" y="30" width="130" height="40" as="geometry" />
+          <mxGeometry x="595" y="10" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;" parent="1" source="inputs_text" target="input_embedding" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -150,28 +150,28 @@
         <mxCell id="d4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;entryX=0.5;entryY=1;" parent="1" source="plus_dec" target="dec_masked_mha" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="700" />
-              <mxPoint x="660" y="700" />
+              <mxPoint x="630" y="680" />
+              <mxPoint x="660" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="d4a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;entryX=0.25;entryY=1;" parent="1" target="dec_masked_mha" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="700" as="sourcePoint" />
+            <mxPoint x="660" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d4b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;entryX=0.75;entryY=1;" parent="1" target="dec_masked_mha" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="700" as="sourcePoint" />
+            <mxPoint x="660" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="res_dec1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=classic;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" parent="1" source="plus_dec" target="dec_addnorm1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="700" />
-              <mxPoint x="820" y="700" />
-              <mxPoint x="820" y="600" />
-              <mxPoint x="660" y="600" />
+              <mxPoint x="630" y="680" />
+              <mxPoint x="820" y="680" />
+              <mxPoint x="820" y="580" />
+              <mxPoint x="660" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -190,7 +190,7 @@
         </mxCell>
         <mxCell id="enc_dec_conn2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;entryX=0.75;entryY=1;" parent="1" target="dec_mha" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="540" as="sourcePoint" />
+            <mxPoint x="610" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dec_internal_conn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;entryX=0.5;entryY=1;exitX=0.5;exitY=0;" parent="1" source="dec_addnorm1" target="dec_mha" edge="1">
@@ -199,10 +199,10 @@
         <mxCell id="res_dec2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=classic;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" parent="1" source="dec_addnorm1" target="dec_addnorm2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="560" />
-              <mxPoint x="820" y="560" />
-              <mxPoint x="820" y="440" />
-              <mxPoint x="660" y="440" />
+              <mxPoint x="660" y="540" />
+              <mxPoint x="820" y="540" />
+              <mxPoint x="820" y="420" />
+              <mxPoint x="660" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -215,10 +215,10 @@
         <mxCell id="res_dec3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=classic;exitX=0.5;exitY=0;entryX=0.5;entryY=1;" parent="1" source="dec_addnorm2" target="dec_addnorm3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="400" />
-              <mxPoint x="820" y="400" />
-              <mxPoint x="820" y="280" />
-              <mxPoint x="660" y="280" />
+              <mxPoint x="660" y="380" />
+              <mxPoint x="820" y="380" />
+              <mxPoint x="820" y="260" />
+              <mxPoint x="660" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
