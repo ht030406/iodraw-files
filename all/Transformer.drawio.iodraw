@@ -38,7 +38,7 @@
           <mxGeometry x="80" y="775" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="decoder_block" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1E1E1;strokeColor=#666666;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="520" y="240" width="280" height="580" as="geometry" />
+          <mxGeometry x="520" y="280" width="280" height="540" as="geometry" />
         </mxCell>
         <mxCell id="nx_label_dec" value="Nx" style="text;html=1;fontSize=24;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="520" width="40" height="30" as="geometry" />
