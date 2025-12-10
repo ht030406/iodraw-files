@@ -152,14 +152,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;entryX=0.25;entryY=1;" parent="1" target="dec_masked_mha" edge="1">
+        <mxCell id="d4a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeWidth=2;endArrow=classic;entryX=0.25;entryY=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="dec_masked_mha" edge="1" source="dec_masked_mha">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="680" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="660" y="670" />
-              <mxPoint x="650" y="670" />
-              <mxPoint x="650" y="690" />
-              <mxPoint x="610" y="690" />
+              <mxPoint x="660" y="700" />
+              <mxPoint x="610" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
