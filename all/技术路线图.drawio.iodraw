@@ -11,7 +11,7 @@
           <mxGeometry x="460" y="160" width="300" height="570" as="geometry" />
         </mxCell>
         <mxCell id="phase3" value="3. 策略动态适配与执行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="160" width="300" height="360" as="geometry" />
+          <mxGeometry x="800" y="160" width="300" height="570" as="geometry" />
         </mxCell>
         <mxCell id="plan" value="高层规划指令&lt;br style=&quot;font-size: 13px;&quot;&gt;Plan: [Pick_A, Move_B]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;dashed=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="170" y="80" width="200" height="60" as="geometry" />
