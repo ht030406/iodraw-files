@@ -29,7 +29,7 @@
           <mxGeometry x="510" y="210" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="safety_check" value="安全性/可行性判定&lt;br style=&quot;font-size: 13px;&quot;&gt;(Safety Check)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="540" y="340" width="140" height="80" as="geometry" />
+          <mxGeometry x="540" y="360" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vla_base" value="通用 VLA 基座 (OpenVLA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="850" y="210" width="200" height="60" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-8" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;技能选择&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="510" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
