@@ -23,7 +23,7 @@
           <mxGeometry x="170" y="210" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="skill_db" value="共享技能库 (LoRA)&lt;br style=&quot;font-size: 13px;&quot;&gt;Key: 语义向量&lt;br style=&quot;font-size: 13px;&quot;&gt;Value: 适配器权重" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFCC99;strokeColor=#CC6600;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="170" y="490" width="200" height="100" as="geometry" />
+          <mxGeometry x="170" y="500" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="world_model" value="世界模型视觉预演&lt;br style=&quot;font-size: 13px;&quot;&gt;(Visual World Model Rollout)&lt;br style=&quot;font-size: 13px;&quot;&gt;预测视频流 / 潜变量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="510" y="210" width="200" height="80" as="geometry" />
