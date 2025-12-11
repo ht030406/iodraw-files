@@ -58,6 +58,10 @@
         <mxCell id="edge-5" value="Pass" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;fontColor=#009900;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="safety_check" target="load_lora" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="670" />
+              <mxPoint x="780" y="335" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="edge-6" value="Fail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;strokeColor=#CC0000;fontColor=#CC0000;exitX=1;exitY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="safety_check" target="online_tuning" edge="1">
