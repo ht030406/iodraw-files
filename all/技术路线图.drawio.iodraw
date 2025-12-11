@@ -145,7 +145,7 @@
           <mxGeometry x="540" y="330" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-15" value="动力学模型预测隐状态和下一时刻潜变量&lt;div&gt;$$h_t = f_\phi(h_{t-1}, z_{t-1}, a_{t-1})$$&lt;div&gt;$$\hat{z}_{t+1} \sim p_{\phi}(\hat{z}_{t+1} \mid h_t)$$&lt;/div&gt;&lt;/div&gt;&lt;div&gt;$$推演z_{t+1},z_{t+2},...,z_{t+H}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="510" y="380" width="200" height="120" as="geometry" />
+          <mxGeometry x="510" y="380" width="230" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
