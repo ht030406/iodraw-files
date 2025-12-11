@@ -40,7 +40,7 @@
         <mxCell id="load_lora" value="检索权重&lt;div&gt;加载 LoRA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="online_tuning" value="在线少样本微调&lt;br&gt;&lt;div&gt;SFT+RL&lt;/div&gt;&lt;div&gt;（L1损失+PPO）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontSize=13;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="online_tuning" value="在线少样本微调&lt;br&gt;&lt;div&gt;SFT+RL&lt;/div&gt;&lt;div&gt;（L1损失+PPO）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="960" y="310" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="execute_action" value="异构动作执行 (Action)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=13;" parent="1" vertex="1">
