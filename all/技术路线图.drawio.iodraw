@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="online_tuning" target="execute_action" edge="1">
+        <mxCell id="edge-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;strokeWidth=2;" parent="1" source="online_tuning" target="execute_action" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="990" y="500" as="sourcePoint" />
             <mxPoint x="910" y="475" as="targetPoint" />
