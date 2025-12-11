@@ -25,6 +25,9 @@
         <mxCell id="skill_db" value="共享技能库 (LoRA)&lt;br style=&quot;font-size: 13px;&quot;&gt;Key: 语义向量&lt;br style=&quot;font-size: 13px;&quot;&gt;Value: 适配器权重" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFCC99;strokeColor=#CC6600;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="170" y="540" width="200" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="D90RVlBFEFCryn5z9pW9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="world_model" target="D90RVlBFEFCryn5z9pW9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="world_model" value="编码器$$z_t \sim q_\phi(z_t \mid h_t, x_t)$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="510" y="260" width="200" height="80" as="geometry" />
         </mxCell>
@@ -141,7 +144,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-14" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;$$潜变量z_t$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="330" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-15" value="编码器$$z_t \sim q_\phi(z_t \mid h_t, x_t)$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="D90RVlBFEFCryn5z9pW9-15" value="动力学模型$$h_t = f_\phi(h_{t-1}, z_{t-1}, a_{t-1})$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="510" y="380" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
