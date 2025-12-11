@@ -178,11 +178,11 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-23" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;新LoRA权重&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="400" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-25" value="异构动作执行 (Action)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="D90RVlBFEFCryn5z9pW9-25" value="经验回放&lt;div&gt;失败轨迹记录&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="900" y="570" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;执行失败&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="960" y="530" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
