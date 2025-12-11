@@ -43,7 +43,7 @@
         <mxCell id="online_tuning" value="在线少样本微调&lt;br&gt;&lt;div&gt;SFT+RL&lt;/div&gt;&lt;div&gt;（L1损失+PPO）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E43F65;strokeColor=#6F0000;fontSize=13;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="960" y="310" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="execute_action" target="D90RVlBFEFCryn5z9pW9-25">
+        <mxCell id="D90RVlBFEFCryn5z9pW9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;strokeColor=#C7002D;" edge="1" parent="1" source="execute_action" target="D90RVlBFEFCryn5z9pW9-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="execute_action" value="异构动作执行 (Action)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=13;" parent="1" vertex="1">
