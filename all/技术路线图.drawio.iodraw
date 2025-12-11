@@ -35,7 +35,7 @@
           <mxGeometry x="850" y="310" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="online_tuning" value="在线少样本微调&lt;br style=&quot;font-size: 13px;&quot;&gt;(Online Few-shot&lt;br style=&quot;font-size: 13px;&quot;&gt;Tuning)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="930" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="990" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="execute_action" value="异构动作执行 (Action)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="850" y="389" width="120" height="50" as="geometry" />
