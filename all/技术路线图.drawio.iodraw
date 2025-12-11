@@ -147,8 +147,8 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-15" value="动力学模型预测隐状态和下一时刻潜变量&lt;div&gt;$$h_t = f_\phi(h_{t-1}, z_{t-1}, a_{t-1})$$&lt;div&gt;$$\hat{z}_{t+1} \sim p_{\phi}(\hat{z}_{t+1} \mid h_t)$$&lt;/div&gt;&lt;/div&gt;&lt;div&gt;$$推演z_{t+1},z_{t+2},...,z_{t+H}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="480" y="380" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-18" value="动力学模型预测隐状态和下一时刻潜变量&lt;div&gt;$$h_t = f_\phi(h_{t-1}, z_{t-1}, a_{t-1})$$&lt;div&gt;$$\hat{z}_{t+1} \sim p_{\phi}(\hat{z}_{t+1} \mid h_t)$$&lt;/div&gt;&lt;/div&gt;&lt;div&gt;$$推演z_{t+1},z_{t+2},...,z_{t+H}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="490" y="390" width="260" height="140" as="geometry" />
+        <mxCell id="D90RVlBFEFCryn5z9pW9-18" value="成功预测网络预测&lt;div&gt;$$p_{succ} = g_\psi(z_{t+1}, z_{t+2}, \ldots, z_{t+H})$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
