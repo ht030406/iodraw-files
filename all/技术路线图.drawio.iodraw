@@ -171,7 +171,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90RVlBFEFCryn5z9pW9-18" target="safety_check">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-18" value="成功预测网络预测&lt;div&gt;$$p_{succ} = g_\psi(z_{t+1}, z_{t+2}, \ldots, z_{t+H})$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="D90RVlBFEFCryn5z9pW9-18" value="时序轨迹成功率评估模型&lt;div&gt;$$p_{succ} = g_\psi(z_{t+1}, z_{t+2}, \ldots, z_{t+H})$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="480" y="540" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-23" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;新LoRA权重&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
