@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="A1b2c3d4e5f6g7h8">
-    <mxGraphModel dx="810" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="810" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,10 +124,10 @@
           <mxGeometry x="280" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-9" value="世界模型视觉预演&lt;br style=&quot;font-size: 13px;&quot;&gt;(Visual World Model Rollout)&lt;br style=&quot;font-size: 13px;&quot;&gt;预测视频流 / 潜变量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="510" y="30" width="200" height="80" as="geometry" />
+          <mxGeometry x="670" y="-10" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;技能选定&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="60" height="50" as="geometry" />
+          <mxGeometry x="440" y="220" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
