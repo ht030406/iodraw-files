@@ -128,7 +128,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90RVlBFEFCryn5z9pW9-2" target="D90RVlBFEFCryn5z9pW9-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;自适应多技能选择器&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;（LoRA微调）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="D90RVlBFEFCryn5z9pW9-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;自适应多技能选择器&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;（LoRA Fine-Tuning）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="170" y="320" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;$$SoftMax$$输出技能选择最大可能概率&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=13;" vertex="1" parent="1">
