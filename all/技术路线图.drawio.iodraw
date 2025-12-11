@@ -148,7 +148,7 @@
           <mxGeometry x="480" y="380" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-18" value="成功预测网络预测&lt;div&gt;$$p_{succ} = g_\psi(z_{t+1}, z_{t+2}, \ldots, z_{t+H})$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="480" y="540" width="260" height="140" as="geometry" />
+          <mxGeometry x="480" y="540" width="260" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
