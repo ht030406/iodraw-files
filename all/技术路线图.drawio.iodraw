@@ -172,6 +172,9 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-18" value="成功预测网络预测&lt;div&gt;$$p_{succ} = g_\psi(z_{t+1}, z_{t+2}, \ldots, z_{t+H})$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="480" y="540" width="260" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="D90RVlBFEFCryn5z9pW9-23" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;$$潜变量z_t$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
