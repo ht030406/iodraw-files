@@ -29,7 +29,7 @@
           <mxGeometry x="510" y="260" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="safety_check" value="安全性/可行性判定&lt;br style=&quot;font-size: 13px;&quot;&gt;(Safety Check)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="540" y="475" width="140" height="80" as="geometry" />
+          <mxGeometry x="960" y="700" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vla_base" value="通用 VLA 基座 (OpenVLA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="850" y="210" width="200" height="60" as="geometry" />
@@ -51,9 +51,6 @@
             <mxPoint x="420" y="380" as="sourcePoint" />
             <mxPoint x="510" y="250" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="edge-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="world_model" target="safety_check" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="edge-5" value="Pass" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;fontColor=#009900;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="safety_check" target="load_lora" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -145,7 +142,7 @@
           <mxGeometry x="545" y="350" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-15" value="编码器$$z_t \sim q_\phi(z_t \mid h_t, x_t)$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="520" y="270" width="200" height="80" as="geometry" />
+          <mxGeometry x="510" y="410" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
