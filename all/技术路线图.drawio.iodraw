@@ -165,7 +165,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90RVlBFEFCryn5z9pW9-15" target="D90RVlBFEFCryn5z9pW9-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-15" value="动力学模型预测隐状态和下一时刻潜变量&lt;div&gt;$$h_t = f_\phi(h_{t-1}, z_{t-1}, a_{t-1})$$&lt;div&gt;$$\hat{z}_{t+1} \sim p_{\phi}(\hat{z}_{t+1} \mid h_t)$$&lt;/div&gt;&lt;/div&gt;&lt;div&gt;$$推演z_{t+1},z_{t+2},...,z_{t+H}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="D90RVlBFEFCryn5z9pW9-15" value="基于RSSM的视觉动力学演化预测&lt;div&gt;$$h_t = f_\phi(h_{t-1}, z_{t-1}, a_{t-1})$$&lt;div&gt;$$\hat{z}_{t+1} \sim p_{\phi}(\hat{z}_{t+1} \mid h_t)$$&lt;/div&gt;&lt;/div&gt;&lt;div&gt;$$推演z_{t+1},z_{t+2},...,z_{t+H}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="480" y="380" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90RVlBFEFCryn5z9pW9-18" target="safety_check">
