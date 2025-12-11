@@ -7,7 +7,7 @@
         <mxCell id="phase1" value="1. 语义解析与技能检索" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="300" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="phase2" value="2. 潜空间视觉动力学验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="phase2" value="2. 潜空间视觉动力学验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=13;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="160" width="300" height="570" as="geometry" />
         </mxCell>
         <mxCell id="phase3" value="3. 策略动态适配与执行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -156,7 +156,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="609.86" y="240" as="sourcePoint" />
             <mxPoint x="609.86" y="260" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="610" y="220" />
+              <mxPoint x="610" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-14" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;$$潜变量z_t$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
