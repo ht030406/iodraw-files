@@ -129,6 +129,9 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;技能选定&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="D90RVlBFEFCryn5z9pW9-11" value="高层规划指令&lt;br style=&quot;font-size: 13px;&quot;&gt;Plan: [Pick_A, Move_B]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;dashed=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
