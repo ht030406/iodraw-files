@@ -38,7 +38,7 @@
           <mxGeometry x="930" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="execute_action" value="异构动作执行 (Action)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="850" y="450" width="120" height="50" as="geometry" />
+          <mxGeometry x="850" y="389" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="plan" target="llm_parser" edge="1">
           <mxGeometry relative="1" as="geometry" />
