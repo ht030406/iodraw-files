@@ -192,6 +192,9 @@
         <mxCell id="twIaMhZkdYa9SgkdyabW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-300" y="100" width="360" height="550" as="geometry" />
         </mxCell>
+        <mxCell id="twIaMhZkdYa9SgkdyabW-29" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;任务语义嵌入编码器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="200" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
