@@ -7,7 +7,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#82B366;" parent="1" source="world_model" target="D90RVlBFEFCryn5z9pW9-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="world_model" value="潜空间状态编码器$$z \sim q_\phi(z \mid h, x)$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="world_model" value="&lt;font face=&quot;楷体&quot;&gt;潜空间状态编码器&lt;/font&gt;$$z \sim q_\phi(z \mid h, x)$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="510" y="260" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="safety_check" value="$$p_{succ}&amp;gt;\tau?$$" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
