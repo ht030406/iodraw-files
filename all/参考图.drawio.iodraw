@@ -1,14 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Jt9J7YaUsD6hw_9BtywL">
-    <mxGraphModel dx="1175" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2002" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="基于世界模型验证的异构技能库构建与动态适配" style="text;align=center;fontSize=16;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="2" value="研究内容3：多机器人协同执行中的反思机制与闭环重规划" style="text;align=center;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="10" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3" value="阶段1：语义驱动辩证任务分配" style="swimlane;fontStyle=1;rounded=1;fillColor=#E8F2FF;strokeColor=#6FA8DC;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="5" y="60" width="360" height="570" as="geometry" />
+          <mxGeometry y="160" width="360" height="570" as="geometry" />
         </mxCell>
         <mxCell id="OzVcwBtix8RMWa9dWNKN-103" value="机器人能力描述符" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" parent="3" vertex="1">
           <mxGeometry x="192" y="46" width="115" height="40" as="geometry" />
