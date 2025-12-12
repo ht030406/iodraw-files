@@ -192,9 +192,6 @@
         <mxCell id="twIaMhZkdYa9SgkdyabW-2" value="阶段1：语义驱动辩证任务分配" style="swimlane;fontStyle=1;rounded=1;fillColor=#E8F2FF;strokeColor=#6FA8DC;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-490" y="100" width="360" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-3" value="机器人能力描述符" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="192" y="46" width="115" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-4" value="" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#D7E8FF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
           <mxGeometry x="15" y="190" width="330" height="190" as="geometry" />
         </mxCell>
@@ -251,26 +248,10 @@
         <mxCell id="twIaMhZkdYa9SgkdyabW-21" value="…" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
           <mxGeometry x="205" y="319" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-22" value="任务语义解析 + 能力描述解析&#xa;Role Generator（实例化多机器人LLM智能体）" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="50" y="110" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-23" style="endArrow=block;rounded=0;strokeColor=#6FA8DC;entryX=0.256;entryY=-0.001;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2" source="twIaMhZkdYa9SgkdyabW-26" target="twIaMhZkdYa9SgkdyabW-22">
+        <mxCell id="twIaMhZkdYa9SgkdyabW-24" style="endArrow=block;rounded=0;strokeColor=#6FA8DC;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2" target="twIaMhZkdYa9SgkdyabW-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="119.70000000000005" y="80" as="sourcePoint" />
-            <mxPoint x="135" y="111" as="targetPoint" />
+            <mxPoint x="180" y="170" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-24" style="endArrow=block;rounded=0;strokeColor=#6FA8DC;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2" source="twIaMhZkdYa9SgkdyabW-22" target="twIaMhZkdYa9SgkdyabW-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-25" style="endArrow=block;rounded=0;strokeColor=#6FA8DC;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2" source="twIaMhZkdYa9SgkdyabW-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="249" y="90" as="sourcePoint" />
-            <mxPoint x="249" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-26" value="上游原子任务序列 Pick(A), Move(B)..." style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="59" y="46" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
