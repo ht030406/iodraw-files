@@ -10,7 +10,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;strokeColor=#B85450;fillColor=#ffcccc;" parent="1" source="execute_action" target="D90RVlBFEFCryn5z9pW9-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="execute_action" value="异构动作执行 (Action)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="execute_action" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;楷体&quot;&gt;异构动作执行&lt;/font&gt; &lt;font face=&quot;Times New Roman&quot;&gt;(Action)&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="930" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="edge-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;成功&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;fontColor=#009900;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=default;labelBackgroundColor=default;strokeWidth=2;" parent="1" source="safety_check" target="load_lora" edge="1">
