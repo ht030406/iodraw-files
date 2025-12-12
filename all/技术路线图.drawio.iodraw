@@ -25,7 +25,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;strokeColor=#36393d;fillColor=#ffcccc;" parent="1" source="execute_action" target="D90RVlBFEFCryn5z9pW9-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="execute_action" value="&lt;font color=&quot;#ffffff&quot;&gt;异构动作执行 (Action)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="execute_action" value="异构动作执行 (Action)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="930" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;fontSize=13;strokeWidth=2;strokeColor=#D6B656;" parent="1" source="skill_db" target="world_model" edge="1">
