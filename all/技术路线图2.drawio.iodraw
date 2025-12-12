@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="A1b2c3d4e5f6g7h8">
-    <mxGraphModel dx="1175" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1382" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="llm_parser" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;楷体&quot;&gt;任务语义嵌入编码器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=13;" parent="rmcfTTaoyb1o5lvjvZ7t-1" vertex="1">
-          <mxGeometry x="100" y="210" width="210" height="60" as="geometry" />
+          <mxGeometry x="95" y="210" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="online_tuning" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;在线少样本微调&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;SFT+RL&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;L1&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;损失&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;+PPO&lt;/font&gt;）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="rmcfTTaoyb1o5lvjvZ7t-1" vertex="1">
           <mxGeometry x="980" y="220" width="140" height="80" as="geometry" />
