@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;时序轨迹成功率评估模型&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;\(p_{succ} = g_\psi(z_{t+1}, z_{t+2}, \ldots, z_{t+H})\)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="480" y="540" width="260" height="70" as="geometry" />
+          <mxGeometry x="480" y="540" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-23" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;新LoRA权重&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1060" y="400" width="80" height="50" as="geometry" />
