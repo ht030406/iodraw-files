@@ -187,7 +187,7 @@
           <mxGeometry x="960" y="540" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-1" value="基于世界模型验证的异构技能库构建与动态适配" style="text;align=center;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="10" width="640" height="30" as="geometry" />
+          <mxGeometry x="280" y="50" width="640" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
