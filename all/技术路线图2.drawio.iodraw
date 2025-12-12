@@ -222,7 +222,7 @@
         <mxCell id="edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#ffcccc;strokeColor=#B85450;strokeWidth=1.5;" parent="twIaMhZkdYa9SgkdyabW-45" source="vla_base" target="load_lora" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rmcfTTaoyb1o5lvjvZ7t-1" value="基于世界模型验证的异构技能库构建与动态适配" style="swimlane;fontStyle=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="rmcfTTaoyb1o5lvjvZ7t-1" value="基于世界模型验证的异构技能库构建与动态适配" style="swimlane;fontStyle=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="30" y="119" width="1160" height="650" as="geometry" />
         </mxCell>
       </root>
