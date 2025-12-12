@@ -151,7 +151,7 @@
           <mxGeometry x="280" y="50" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-2" value="阶段1：语义解析与技能检索" style="swimlane;fontStyle=1;rounded=1;fillColor=#FFF2CC;strokeColor=#d6b656;labelBackgroundColor=none;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="160" width="360" height="570" as="geometry" />
+          <mxGeometry x="50" y="160" width="360" height="570" as="geometry" />
         </mxCell>
         <mxCell id="skill_db" value="共享技能库 (LoRA)&lt;br style=&quot;font-size: 13px;&quot;&gt;Key: 语义向量&lt;br style=&quot;font-size: 13px;&quot;&gt;Value: 适配器权重" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFCC99;strokeColor=#CC6600;fontSize=13;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
           <mxGeometry x="80" y="450" width="200" height="100" as="geometry" />
