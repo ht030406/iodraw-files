@@ -190,7 +190,7 @@
           <mxGeometry x="280" y="50" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-2" value="阶段1：语义解析与技能检索" style="swimlane;fontStyle=1;rounded=1;fillColor=#FFF2CC;strokeColor=#d6b656;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="150" width="360" height="570" as="geometry" />
+          <mxGeometry x="90" y="160" width="360" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
