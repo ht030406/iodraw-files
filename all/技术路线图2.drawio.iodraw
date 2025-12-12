@@ -124,7 +124,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-25" value="经验回放&lt;div&gt;失败轨迹优化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="930" y="590" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-2" value="阶段1：语义解析与技能检索" style="swimlane;fontStyle=1;rounded=1;fillColor=#FFF2CC;strokeColor=#d6b656;labelBackgroundColor=none;strokeWidth=2;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="twIaMhZkdYa9SgkdyabW-2" value="阶段1：语义解析与技能检索" style="swimlane;fontStyle=1;rounded=1;fillColor=#FFF2CC;strokeColor=#d6b656;labelBackgroundColor=none;strokeWidth=2;gradientColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="50" y="160" width="360" height="570" as="geometry" />
         </mxCell>
         <mxCell id="skill_db" value="共享技能库 (LoRA)&lt;br style=&quot;font-size: 13px;&quot;&gt;Key: 语义向量&lt;br style=&quot;font-size: 13px;&quot;&gt;Value: 适配器权重" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFCC99;strokeColor=#CC6600;fontSize=13;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
