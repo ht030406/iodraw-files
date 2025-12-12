@@ -154,10 +154,10 @@
           <mxGeometry x="90" y="160" width="360" height="570" as="geometry" />
         </mxCell>
         <mxCell id="skill_db" value="共享技能库 (LoRA)&lt;br style=&quot;font-size: 13px;&quot;&gt;Key: 语义向量&lt;br style=&quot;font-size: 13px;&quot;&gt;Value: 适配器权重" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFCC99;strokeColor=#CC6600;fontSize=13;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
-          <mxGeometry x="80" y="440" width="200" height="100" as="geometry" />
+          <mxGeometry x="80" y="450" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-8" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;技能选择&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
-          <mxGeometry x="190" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;技能概率决策单元&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;(SoftMax)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=13;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
           <mxGeometry x="80" y="320" width="200" height="70" as="geometry" />
