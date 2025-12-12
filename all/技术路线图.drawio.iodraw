@@ -192,38 +192,14 @@
         <mxCell id="twIaMhZkdYa9SgkdyabW-2" value="阶段1：语义驱动辩证任务分配" style="swimlane;fontStyle=1;rounded=1;fillColor=#E8F2FF;strokeColor=#6FA8DC;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-490" y="100" width="360" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-4" value="" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#D7E8FF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="15" y="190" width="330" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-5" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;LLM推理分配器&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;语义驱动辩证对话&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="59" y="190" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-6" value="Agent A&#xa;（移动底盘）" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="21" y="310" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6FA8DC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=block;endArrow=block;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2" source="twIaMhZkdYa9SgkdyabW-8" target="twIaMhZkdYa9SgkdyabW-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-8" value="对话历史缓冲区" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="135" y="230" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-9" style="endArrow=block;startArrow=block;rounded=0;strokeColor=#6FA8DC;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2" source="twIaMhZkdYa9SgkdyabW-6" target="twIaMhZkdYa9SgkdyabW-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-10" value="Agent B&#xa;（机械臂）" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="135" y="309" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-11" style="endArrow=block;startArrow=block;rounded=0;strokeColor=#6FA8DC;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2" source="twIaMhZkdYa9SgkdyabW-8" target="twIaMhZkdYa9SgkdyabW-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-12" value="联合动作DAG&#xa;时空对齐与轨迹优化&#xa;《时空协同计划表》" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
           <mxGeometry x="60" y="494" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-13" value="" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#D7E8FF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="15" y="396" width="330" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-14" style="endArrow=block;rounded=0;strokeColor=#6FA8DC;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2" source="twIaMhZkdYa9SgkdyabW-4" target="twIaMhZkdYa9SgkdyabW-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="twIaMhZkdYa9SgkdyabW-14" style="endArrow=block;rounded=0;strokeColor=#6FA8DC;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="380" as="sourcePoint" />
+            <mxPoint x="180" y="396" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-15" value="语义解析与文本格式校验" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
           <mxGeometry x="25" y="420" width="100" height="50" as="geometry" />
@@ -242,16 +218,8 @@
         <mxCell id="twIaMhZkdYa9SgkdyabW-19" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;多层级逻辑/物理验证&lt;/span&gt;&#xa;&#xa;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
           <mxGeometry x="105" y="401" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-20" value="Agent N&#xa;（机械狗）" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry x="245" y="309" width="90" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-21" value="…" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
           <mxGeometry x="205" y="319" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-24" style="endArrow=block;rounded=0;strokeColor=#6FA8DC;" edge="1" parent="twIaMhZkdYa9SgkdyabW-2" target="twIaMhZkdYa9SgkdyabW-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="170" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
