@@ -16,7 +16,7 @@
         <mxCell id="safety_check" value="$$p_{succ}&amp;gt;\tau?$$" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="540" y="630" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vla_base" value="通用 VLA 基座 (OpenVLA)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#E43F65;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="vla_base" value="&lt;font color=&quot;#ffffff&quot;&gt;通用 VLA 基座 (OpenVLA)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#E43F65;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="load_lora" value="检索权重&lt;div&gt;加载 LoRA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
