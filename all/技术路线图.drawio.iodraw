@@ -13,19 +13,19 @@
         <mxCell id="safety_check" value="$$p_{succ}&amp;gt;\tau?$$" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="540" y="630" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vla_base" value="通用 VLA 基座 (OpenVLA)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FDBABA;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="vla_base" value="通用 VLA 基座 (OpenVLA)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FDAAAA;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="load_lora" value="检索权重&lt;div&gt;加载 LoRA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDBABA;strokeColor=#36393d;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="load_lora" value="检索权重&lt;div&gt;加载 LoRA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="online_tuning" value="在线少样本微调&lt;br&gt;&lt;div&gt;SFT+RL&lt;/div&gt;&lt;div&gt;（L1损失+PPO）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDBABA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="online_tuning" value="在线少样本微调&lt;br&gt;&lt;div&gt;SFT+RL&lt;/div&gt;&lt;div&gt;（L1损失+PPO）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="990" y="310" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;strokeColor=#36393d;fillColor=#ffcccc;" parent="1" source="execute_action" target="D90RVlBFEFCryn5z9pW9-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="execute_action" value="&lt;font color=&quot;#ffffff&quot;&gt;异构动作执行 (Action)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDBABA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="execute_action" value="&lt;font color=&quot;#ffffff&quot;&gt;异构动作执行 (Action)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="930" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;fontSize=13;strokeWidth=2;strokeColor=#D6B656;" parent="1" source="skill_db" target="world_model" edge="1">
@@ -139,7 +139,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" source="D90RVlBFEFCryn5z9pW9-25" target="online_tuning" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-25" value="经验回放&lt;div&gt;失败轨迹优化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDBABA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="D90RVlBFEFCryn5z9pW9-25" value="经验回放&lt;div&gt;失败轨迹优化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="930" y="590" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-1" value="研究内容2：基于世界模型验证的异构技能库构建与动态适配" style="text;align=center;fontSize=16;fontStyle=1" vertex="1" parent="1">
