@@ -154,11 +154,6 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#D6B656;" parent="twIaMhZkdYa9SgkdyabW-2" source="llm_parser" target="D90RVlBFEFCryn5z9pW9-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mEZEk4OR8F7522QZPN6y-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D90RVlBFEFCryn5z9pW9-3">
-          <mxGeometry x="-0.0033" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="edge-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#D6B656;strokeWidth=1.5;" parent="twIaMhZkdYa9SgkdyabW-2" target="llm_parser" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="110" as="sourcePoint" />
@@ -229,6 +224,9 @@
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-12" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;楷体&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; font-size: 18px;&quot;&gt;$$观测\ x$$&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="rmcfTTaoyb1o5lvjvZ7t-1" vertex="1">
           <mxGeometry x="555" y="51" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEZEk4OR8F7522QZPN6y-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D90RVlBFEFCryn5z9pW9-12" target="world_model">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
