@@ -158,7 +158,7 @@
             <mxPoint x="180" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-45" value="阶段3：策略动态适配与执行" style="swimlane;fontStyle=1;rounded=1;fillColor=#F2C7C4;strokeColor=#B85450;labelBackgroundColor=none;strokeWidth=2;gradientColor=none;startSize=23;fontSize=18;fontFamily=楷体;" parent="1" vertex="1">
+        <mxCell id="twIaMhZkdYa9SgkdyabW-45" value="阶段3：策略动态适配与执行" style="swimlane;fontStyle=1;rounded=1;fillColor=#F2C7C4;strokeColor=#B85450;labelBackgroundColor=none;strokeWidth=2;gradientColor=none;startSize=23;fontSize=20;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="820" y="160" width="360" height="570" as="geometry" />
         </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1.5;strokeColor=#D6B656;" parent="twIaMhZkdYa9SgkdyabW-45" edge="1">
