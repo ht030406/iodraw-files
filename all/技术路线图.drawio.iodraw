@@ -190,7 +190,7 @@
           <mxGeometry x="280" y="50" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-2" value="阶段1：语义驱动辩证任务分配" style="swimlane;fontStyle=1;rounded=1;fillColor=#E8F2FF;strokeColor=#6FA8DC;labelBackgroundColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="60" width="360" height="570" as="geometry" />
+          <mxGeometry x="-490" y="100" width="360" height="570" as="geometry" />
         </mxCell>
         <mxCell id="twIaMhZkdYa9SgkdyabW-3" value="机器人能力描述符" style="rounded=1;whiteSpace=wrap;align=center;fillColor=#F7FBFF;strokeColor=#6FA8DC;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
           <mxGeometry x="192" y="46" width="115" height="40" as="geometry" />
