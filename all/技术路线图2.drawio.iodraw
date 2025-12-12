@@ -16,16 +16,6 @@
         <mxCell id="execute_action" value="异构动作执行 (Action)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FDAAAA;strokeColor=#36393d;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="930" y="490" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;fontSize=13;strokeWidth=2;strokeColor=#D6B656;" parent="1" source="skill_db" target="world_model" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="380" as="sourcePoint" />
-            <mxPoint x="510" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="430" y="660" />
-              <mxPoint x="430" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="edge-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;成功&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;fontColor=#009900;fontSize=13;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=default;labelBackgroundColor=default;strokeWidth=2;" parent="1" source="safety_check" target="load_lora" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="340" as="targetPoint" />
@@ -121,17 +111,11 @@
         <mxCell id="twIaMhZkdYa9SgkdyabW-2" value="阶段1：语义解析与技能检索" style="swimlane;fontStyle=1;rounded=1;fillColor=#FFF2CC;strokeColor=#d6b656;labelBackgroundColor=none;strokeWidth=2;gradientColor=none;fontSize=18;fontFamily=楷体;" parent="1" vertex="1">
           <mxGeometry x="50" y="160" width="360" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="skill_db" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;共享技能库&lt;/font&gt; (&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;LoRA&lt;/font&gt;)&lt;br style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Key:&lt;/font&gt; &lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;语义向量&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Value:&lt;/font&gt; &lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;适配器权重&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFCC99;strokeColor=#CC6600;fontSize=13;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
-          <mxGeometry x="80" y="450" width="200" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-8" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;楷体&quot;&gt;技能选择&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
           <mxGeometry x="190" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-4" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;技能概率决策单元&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;SoftMax&lt;/font&gt;)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=13;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
           <mxGeometry x="80" y="340" width="200" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1.5;strokeColor=#D6B656;" parent="twIaMhZkdYa9SgkdyabW-2" source="D90RVlBFEFCryn5z9pW9-4" target="skill_db" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D90RVlBFEFCryn5z9pW9-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;\(Logits\)&lt;font face=&quot;楷体&quot;&gt;分布&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=ltr;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
           <mxGeometry x="180" y="300" width="110" height="30" as="geometry" />
@@ -224,6 +208,22 @@
         </mxCell>
         <mxCell id="world_model" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;潜空间状态编码器&lt;/font&gt;$$z \sim q_\phi(z \mid h, x)$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="rmcfTTaoyb1o5lvjvZ7t-1" vertex="1">
           <mxGeometry x="470" y="126" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="skill_db" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;共享技能库&lt;/font&gt; (&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;LoRA&lt;/font&gt;)&lt;br style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Key:&lt;/font&gt; &lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;语义向量&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Value:&lt;/font&gt; &lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;适配器权重&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFCC99;strokeColor=#CC6600;fontSize=13;" parent="rmcfTTaoyb1o5lvjvZ7t-1" vertex="1">
+          <mxGeometry x="80" y="481" width="240" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="edge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;fontSize=13;strokeWidth=2;strokeColor=#D6B656;" parent="rmcfTTaoyb1o5lvjvZ7t-1" source="skill_db" target="world_model" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="261" as="sourcePoint" />
+            <mxPoint x="480" y="131" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="541" />
+              <mxPoint x="400" y="181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D90RVlBFEFCryn5z9pW9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1.5;strokeColor=#D6B656;" parent="1" source="D90RVlBFEFCryn5z9pW9-4" target="skill_db" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
