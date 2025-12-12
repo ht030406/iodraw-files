@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="world_model" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;楷体&quot;&gt;潜空间状态编码器&lt;/font&gt;$$z \sim q_\phi(z \mid h, x)$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="510" y="260" width="200" height="80" as="geometry" />
+          <mxGeometry x="510" y="240" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="safety_check" value="$$p_{succ}&amp;gt;\tau?$$" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="540" y="630" width="140" height="80" as="geometry" />
