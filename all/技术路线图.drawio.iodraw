@@ -19,7 +19,7 @@
         <mxCell id="vla_base" value="&lt;font color=&quot;#ffffff&quot;&gt;通用 VLA 基座 (OpenVLA)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#E43F65;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="load_lora" value="&lt;font color=&quot;#ffffff&quot;&gt;检索权重&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;加载 LoRA&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E43F65;strokeColor=#82B366;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="load_lora" value="&lt;font color=&quot;#ffffff&quot;&gt;检索权重&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;加载 LoRA&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E43F65;strokeColor=#6F0000;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="online_tuning" value="在线少样本微调&lt;br&gt;&lt;div&gt;SFT+RL&lt;/div&gt;&lt;div&gt;（L1损失+PPO）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E43F65;strokeColor=#6F0000;fontSize=13;fontColor=#ffffff;" parent="1" vertex="1">
