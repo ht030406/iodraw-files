@@ -13,7 +13,7 @@
         <mxCell id="world_model" value="潜空间状态编码器$$z \sim q_\phi(z \mid h, x)$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#0E8088;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="510" y="260" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="safety_check" value="$$p_{succ}&amp;gt;\tau?$$" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="safety_check" value="$$p_{succ}&amp;gt;\tau?$$" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B0E3E6;strokeColor=#D6B656;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="540" y="630" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vla_base" value="通用 VLA 基座 (OpenVLA)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -111,7 +111,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-12" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;$$观测x$$&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="585" y="180" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
+        <mxCell id="D90RVlBFEFCryn5z9pW9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=1.5;strokeColor=#82B366;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="220" as="sourcePoint" />
             <mxPoint x="609.86" y="260" as="targetPoint" />
