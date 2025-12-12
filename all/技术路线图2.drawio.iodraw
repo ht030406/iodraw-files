@@ -142,7 +142,7 @@
         <mxCell id="D90RVlBFEFCryn5z9pW9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;strokeColor=#D6B656;" parent="twIaMhZkdYa9SgkdyabW-2" source="D90RVlBFEFCryn5z9pW9-2" target="D90RVlBFEFCryn5z9pW9-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D90RVlBFEFCryn5z9pW9-1" value="&lt;font face=&quot;楷体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;$$任务向量e_{task}$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
+        <mxCell id="D90RVlBFEFCryn5z9pW9-1" value="&lt;font face=&quot;楷体&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;任务向量\(e_{task})\&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
           <mxGeometry x="135" y="195" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="llm_parser" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;楷体&quot;&gt;任务语义嵌入编码器&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=13;" parent="twIaMhZkdYa9SgkdyabW-2" vertex="1">
