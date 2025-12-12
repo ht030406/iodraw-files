@@ -61,10 +61,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" source="vla_base" target="load_lora" edge="1">
+        <mxCell id="edge-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#ffcccc;strokeColor=#B85450;" parent="1" source="vla_base" target="load_lora" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" source="vla_base" target="online_tuning" edge="1">
+        <mxCell id="edge-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fillColor=#ffcccc;strokeColor=#B85450;" parent="1" source="vla_base" target="online_tuning" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="980" y="270" as="sourcePoint" />
             <mxPoint x="1020" y="420" as="targetPoint" />
