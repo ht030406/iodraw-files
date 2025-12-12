@@ -189,8 +189,8 @@
         <mxCell id="twIaMhZkdYa9SgkdyabW-2" value="阶段1：语义解析与技能检索" style="swimlane;fontStyle=1;rounded=1;fillColor=#FFF2CC;strokeColor=#d6b656;labelBackgroundColor=none;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="360" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="twIaMhZkdYa9SgkdyabW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
-          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        <mxCell id="twIaMhZkdYa9SgkdyabW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="twIaMhZkdYa9SgkdyabW-2">
+          <mxGeometry y="20" width="360" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
