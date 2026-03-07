@@ -1,0 +1,100 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
+  <diagram id="技术路线" name="Page-1">
+    <mxGraphModel dx="1516" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="人机价值对齐与反事实解释技术路线" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontWeight=bold;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="30" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="box1" value="结构化记录" style="rounded=1;fillColor=#e6f2ff;strokeColor=#6699cc;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="100" y="100" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="box1_text" value="宏观意图S_t&amp;lt;br&amp;gt;微观动作A_t" style="text;html=1;align=center;verticalAlign=middle;" parent="box1" vertex="1">
+          <mxGeometry x="20" y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="icon1" style="shape=cube;fillColor=#6699cc;strokeColor=white;strokeWidth=1;" parent="box1" vertex="1">
+          <mxGeometry x="75" y="20" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="box2" value="关键决策点序列" style="rounded=1;fillColor=#e6f2ff;strokeColor=#6699cc;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="100" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="box2_text" value="轨迹切分&amp;lt;br&amp;gt;替代动作集合A&#39;" style="text;html=1;align=center;verticalAlign=middle;" parent="box2" vertex="1">
+          <mxGeometry x="20" y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="icon2" style="shape=ellipse;fillColor=#6699cc;strokeColor=white;strokeWidth=1;" parent="box2" vertex="1">
+          <mxGeometry x="75" y="20" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="box3" value="表征对齐 VLA" style="rounded=1;fillColor=#e6f2ff;strokeColor=#6699cc;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="600" y="100" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="box3_text" value="多模态嵌入&amp;lt;br&amp;gt;意图-动作对齐" style="text;html=1;align=center;verticalAlign=middle;" parent="box3" vertex="1">
+          <mxGeometry x="20" y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="icon3" style="shape=network;fillColor=#6699cc;strokeColor=white;strokeWidth=1;" parent="box3" vertex="1">
+          <mxGeometry x="75" y="20" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="box4" value="因果图谱&amp;lt;br&amp;gt;证据链" style="rounded=1;fillColor=#e6f2ff;strokeColor=#6699cc;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="100" y="260" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="box4_text" value="节点-关系&amp;lt;br&amp;gt;可追溯证据" style="text;html=1;align=center;verticalAlign=middle;" parent="box4" vertex="1">
+          <mxGeometry x="20" y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="icon4" style="shape=graph;fillColor=#6699cc;strokeColor=white;strokeWidth=1;" parent="box4" vertex="1">
+          <mxGeometry x="75" y="20" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="box5" value="正向因果解释" style="rounded=1;fillColor=#e6f2ff;strokeColor=#6699cc;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="260" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="box5_text" value="因果效应ACE&amp;lt;br&amp;gt;态势对比ΔY" style="text;html=1;align=center;verticalAlign=middle;" parent="box5" vertex="1">
+          <mxGeometry x="20" y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="icon5" style="shape=barchart;fillColor=#6699cc;strokeColor=white;strokeWidth=1;" parent="box5" vertex="1">
+          <mxGeometry x="75" y="20" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="box6" value="反事实生成" style="rounded=1;fillColor=#e6f2ff;strokeColor=#6699cc;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="600" y="260" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="box6_text" value="世界模型推演&amp;lt;br&amp;gt;最小修改搜索" style="text;html=1;align=center;verticalAlign=middle;" parent="box6" vertex="1">
+          <mxGeometry x="20" y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="icon6" style="shape=arrow;fillColor=#6699cc;strokeColor=white;strokeWidth=1;" parent="box6" vertex="1">
+          <mxGeometry x="75" y="20" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="box7" value="偏好反馈 &amp; 策略迭代" style="rounded=1;fillColor=#e6f2ff;strokeColor=#6699cc;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="250" y="420" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="box7_text" value="偏好权重更新&amp;lt;br&amp;gt;策略回灌 &amp; 闭环对齐" style="text;html=1;align=center;verticalAlign=middle;" parent="box7" vertex="1">
+          <mxGeometry x="50" y="60" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="icon7" style="shape=loop;fillColor=#6699cc;strokeColor=white;strokeWidth=1;" parent="box7" vertex="1">
+          <mxGeometry x="175" y="20" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1" style="endArrow=block;html=1;strokeColor=#6699cc;strokeWidth=2;" parent="1" source="box1" target="box2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2" style="endArrow=block;html=1;strokeColor=#6699cc;strokeWidth=2;" parent="1" source="box2" target="box3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3" style="endArrow=block;html=1;strokeColor=#6699cc;strokeWidth=2;" parent="1" source="box1" target="box4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow4" style="endArrow=block;html=1;strokeColor=#6699cc;strokeWidth=2;" parent="1" source="box2" target="box5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow5" style="endArrow=block;html=1;strokeColor=#6699cc;strokeWidth=2;" parent="1" source="box3" target="box6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow6" style="endArrow=block;html=1;strokeColor=#6699cc;strokeWidth=2;" parent="1" source="box4" target="box5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow7" style="endArrow=block;html=1;strokeColor=#6699cc;strokeWidth=2;" parent="1" source="box5" target="box6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow8" style="endArrow=block;html=1;strokeColor=#6699cc;strokeWidth=2;" parent="1" source="box6" target="box7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
